@@ -36,7 +36,7 @@ header{
 	height: 400px;
 	background-size: cover;
 	background-repeat: no-repeat;
-	opacity: 0.8;
+	filter: grayscale(40%)
 }
 .title-x{
 	margin-bottom: 10px;
