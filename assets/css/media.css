@@ -1,0 +1,37 @@
+@media (min-width: 200px) and (max-width: 534px){
+	[class*="col-"]{
+		width: 100%;
+	}
+
+	.start1{
+		display: none;
+	}
+
+	.start2{
+		display: block;
+	}
+
+	header{
+		height: 80px;
+	}
+
+	.dropdown{
+		margin: 0px;
+		padding: 0px;
+		margin-left: 200px;
+		margin-bottom: 30px;
+	}
+
+	.text-1, h1{
+		text-align: center;
+		color: #FA58D0;
+		font-size: 40px;
+	}
+
+	.img1{
+		background-image: url(../../assets/img/img2.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		opacity: 0.8;
+	}
+}
